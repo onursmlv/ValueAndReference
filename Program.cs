@@ -10,6 +10,7 @@ namespace Value___Reference_Types
             //int a = 5;
             //a = 7;
             //Console.WriteLine(a);
+            Console.WriteLine("Salam");
 
 
             //int a = 5;
